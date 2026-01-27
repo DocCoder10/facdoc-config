@@ -1,0 +1,6 @@
+{
+  "classes": [
+    { "id": "med1", "label": "Médecine 1" },
+    { "id": "med2", "label": "Médecine 2" }
+  ]
+}
