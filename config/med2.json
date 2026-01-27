@@ -1,0 +1,14 @@
+{
+  "Semestre 1": [
+    {
+      "title": "Traumatologie",
+      "drive_id": "DRIVE_ID_TRAUMATO"
+    }
+  ],
+  "Semestre 2": [
+    {
+      "title": "Anglais",
+      "drive_id": "DRIVE_ID_ANGLAIS"
+    }
+  ]
+}
