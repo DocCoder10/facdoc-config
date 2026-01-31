@@ -1,1 +1,19 @@
-
+{
+  "Semestre 1": [
+    { "title": "Dermatologie", "drive_id": "1sJMMNW6tNakrZVRpS81YO9cF6HY78o41" },
+    { "title": "Gynécologie", "drive_id": "1sIS44OQ0iQ1G3u2ox2yWUoBXX8FPG_Ew" },
+    { "title": "Imagérie", "drive_id": "17D7UraQxPbfSoYv2Ge4LJ55hMV32ESl3" },
+    { "title": "Neurochirurgie", "drive_id": "14OOvc_6F4qQcoBan6g7iZ7el56tXAB5s" },
+    { "title": "Neurologie", "drive_id": "1JrTrGVZuI1aLVeMo7HKpfur5MC9jcwf8" },
+    { "title": "Psychiatrie", "drive_id": "1a9Kamm_rPn9qgOeYx4TT_Z9J_ElchYhJ" }
+  ],
+  "Semestre 2": [
+    { "title": "Pédiatrie_Med", "drive_id": "1uUxXYj1qoNs9-zFWDteBa9fVcBvSXQD8" },
+    { "title": "Pédiatrie_Chir", "drive_id": "1hZPjEaYTUF-kGHjpvpmaKIgjPMLqoixn" },
+    { "title": "Anglais", "drive_id": "1Ca2noRHLVtPxr1IjzDlvV06yfNHU2D8R" },
+    { "title": "Néphrologie", "drive_id": "1CxQV9PqSvtoM36gjWBsyk6tbqOECQSQN" },
+    { "title": "Nutrition", "drive_id": "19GrCRO1Ybo8uT3yI43IoAcqW1mKhroNU" },
+    { "title": "Endocrinologie", "drive_id": "1nJIx-ZC4Vbbl6U2AkxUaiqL4tS13brNf" },
+    { "title": "Urologie", "drive_id": "1xX9ihcKu14HIG4YYYjYxrlGRjCY6llOP" }
+  ]
+}
