@@ -14,7 +14,19 @@ jobs:
     steps:
       - name: Sync Cloudflare CDN
         run: |
-          curl -f \
+          RESPONSE=$(curl -s -w "\n%{http_code}" \
             "https://facdoc-cdn.doctutor360.workers.dev/sync-all" \
             -H "x-sync-token: ${{ secrets.SYNC_TOKEN }}" \
-            --max-time 300
+            --max-time 300)
+
+          HTTP_CODE=$(echo "$RESPONSE" | tail -1)
+          BODY=$(echo "$RESPONSE" | head -n -1)
+
+          echo "=== Sync result ==="
+          echo "$BODY" | python3 -m json.tool 2>/dev/null || echo "$BODY"
+          echo "HTTP status: $HTTP_CODE"
+
+          if [ "$HTTP_CODE" = "401" ] || [ "$HTTP_CODE" = "403" ]; then
+            echo "Auth error — check SYNC_TOKEN secret"
+            exit 1
+          fi
