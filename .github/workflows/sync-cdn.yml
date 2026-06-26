@@ -1,0 +1,20 @@
+name: Sync CDN
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'config/**'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Sync Cloudflare CDN
+        run: |
+          curl -f \
+            "https://facdoc-cdn.doctutor360.workers.dev/sync-all" \
+            -H "x-sync-token: ${{ secrets.SYNC_TOKEN }}" \
+            --max-time 300
