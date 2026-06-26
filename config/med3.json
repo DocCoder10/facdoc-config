@@ -1,0 +1,42 @@
+{
+  "Semestre 1": [
+    {
+      "title": "Anatomie/pathologie",
+      "drive_id": "1EvMVs7b7O2OcpAEDcw0HU1rk7zyFhHFV"
+    },
+    {
+      "title": "Bactério/virologie",
+      "drive_id": "12UN_WwCDfijB_1ZmcyNrZe-Vv-LuIuHV"
+    },
+    {
+      "title": "Bichimie Clinique",
+      "drive_id": "10lJFWSXihHk89jX7cEME3oKmcR-cMqTL"
+    },
+    {
+      "title": "Hématologie",
+      "drive_id": "111Q00HCDusJSgslHZBvuY8K2GkMe3iJx"
+    },
+    {
+      "title": "Immunologie",
+      "drive_id": "12V-tbEl_atbAD_tz-4ZQOyCbM8dw1Jdr"
+    },
+    {
+      "title": "Sémiologie Médicale",
+      "drive_id": "1D_f1PAB4ObFRgmeJVK0uiQBYv3a56FNb"
+    }
+  ],
+  "Semestre 2": [
+    {
+      "title": "Parasitologie",
+      "drive_id": "1BX5qOeUdxtVYJGvBSPMn0j6QjxS-WVjs"
+    },
+    {
+      "title": "Pharmacologie",
+      "drive_id": "1BbDoGs3LYonRbroxcCAdhJqqZ59HNxQX"
+    },
+    {
+      "title": "Sémiologie Chirurgicale",
+      "drive_id": "1H24KBSKBWwIZShWmACmAWAoNFBpUasCp"
+    }
+  ]
+}

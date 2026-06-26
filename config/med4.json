@@ -1,0 +1,58 @@
+{
+  "Semestre 1": [
+    {
+      "title": "Traumatologie",
+      "drive_id": "1WvsHa9z1Eq_qFAMYMFGVZRQKoLorH0Lw"
+    },
+    {
+      "title": "Cardiologie",
+      "drive_id": "1-KZ8MJBj9wq2u39l4qSE6ZfmR0a18Ui_"
+    },
+    {
+      "title": "Chirurgie Digestive",
+      "drive_id": "1Hzq1L2Ghob6N-Nk5jA1w--HHs2jkPwmI"
+    },
+    {
+      "title": "Chirurgie Thoracique",
+      "drive_id": "1HIiH3YjgeryT96cFLJ1vqc9RUOWMJg4-"
+    },
+    {
+      "title": "Pneumologie",
+      "drive_id": "1HN1kDT-e9vPIMQuNkK8gre4HxldYAdkv"
+    },
+    {
+      "title": "Rhumatologie",
+      "drive_id": "1XaSQJaz3jwUvsxyjEHOMaKxgkyFgt3Zh"
+    },
+    {
+      "title": "Hépato-Gastro-Entero",
+      "drive_id": "1HG5nkpn55WAC-CwoUfHG3PSSlLbJNS2a"
+    }
+  ],
+  "Semestre 2": [
+    {
+      "title": "Hématologie",
+      "drive_id": "1PyENbibeH3NwfkCxI0fC6u_2wuBEB0pb"
+    },
+    {
+      "title": "Maladies Infectieuses",
+      "drive_id": "1B2eycmtDnBgQA6rBMsKeiyfKAM_m64y6"
+    },
+    {
+      "title": "Maladies Systémiques",
+      "drive_id": "1bEd96XMJtHXI3YgerkmtWaJFx1wSD9kw"
+    },
+    {
+      "title": "Oncologie",
+      "drive_id": "1rzu4cY341I5wNDCrhluTdC9j8COKddQT"
+    },
+    {
+      "title": "Réanimation",
+      "drive_id": "1GmkjNlCpoLVIwX1yU-O0_GNtuzNZuOKO"
+    },
+    {
+      "title": "Urgences Médicales",
+      "drive_id": "1LAYt1zsbEg5dqAi93EL_XvbCElQ_5H-p"
+    }
+  ]
+}

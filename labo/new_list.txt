@@ -1,0 +1,28 @@
+# ================================================================
+# FICHIER D'AJOUT DE MATIÈRES - facdoc-config
+# ================================================================
+#
+# EXEMPLE DE REMPLISSAGE :
+# -------------------------
+#   Classe: med3
+#   Semestre: 2
+#   anatomie comparée:1JQEVcD2PcE8P7UBIO85Oa0RBGD-K8ztF
+#   biologie cellulaire:1XYZ456abcMNO789pqrSTU012vwxyz34
+#   physiologie:1JAVHHlQTmQrwXj-NfcmvX2jQ-uySByEj
+#
+# RÈGLES :
+#   - Classe   : med1, med2, med3, med4, med5 ou med6
+#   - Semestre : 1 ou 2
+#   - Matières : une par ligne, format  →  nom_matière:id_drive
+#   - Les titres seront mis en Title Case automatiquement
+#     ex: "anatomie comparée" → "Anatomie Comparée"
+#   - L'ID Drive doit contenir entre 25 et 50 caractères
+#     (lettres, chiffres, tirets '-' et underscores '_')
+#   - Les lignes commençant par # sont ignorées
+# ================================================================
+
+Classe: med3
+Semestre: 2
+Parasitologie:1BX5qOeUdxtVYJGvBSPMn0j6QjxS-WVjs
+Pharmacologie:1BbDoGs3LYonRbroxcCAdhJqqZ59HNxQX
+Sémiologie Chirurgicale:1H24KBSKBWwIZShWmACmAWAoNFBpUasCp
